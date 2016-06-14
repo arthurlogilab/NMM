@@ -9,6 +9,8 @@ Tout sur le [Nantes Monitoring Meetup](http://www.meetup.com/fr/Nantes-Monitorin
 
 ## OpenEnergyMonitor
 
+* https://arthur.lutz.im/slides/2016/open_energy_monitor/#/open-energy-monitoring
+
 ## Atelier - Prometheus
 
 **Objectif**: Comparer prometheus avec les outils connus par les participants
